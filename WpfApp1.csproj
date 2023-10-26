@@ -7,4 +7,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\owner\Desktop\MainWindow.xaml.txt" Link="MainWindow.xaml.txt" />
+  </ItemGroup>
+
 </Project>
